@@ -11,13 +11,7 @@ I love building modern web apps, solving real-world problems, and continuously i
 
 <h2 align="left">🧠 More About Me</h2>
 
-<p align="left">
-⚡ I’m a UI designer and Front-End Developer.<br>
-👨🏽‍💻 I spend most of my time designing & building awesome web apps.<br>
-🚀 I enjoy building complex APIs using the hottest technologies.<br>
-🟦 Next.js, JAMstack, and TypeScript enthusiast.<br>
-📫 Get in touch: hatimerrattab@gmail.com
-</p>
+
 
 ###
 
